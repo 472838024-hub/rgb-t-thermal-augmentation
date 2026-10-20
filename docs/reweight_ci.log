@@ -1,0 +1,126 @@
+[13:21:49] === FLIR: 1013 frames, 6 clusters, sizes [69, 8, 141, 162, 24, 609]
+[13:21:53]   pre rgb s0: 213500 records (3.9s)
+[13:21:57]   pre rgb s1: 219624 records (3.7s)
+[13:22:00]   pre rgb s2: 215794 records (3.8s)
+[13:22:00]   precomputing shared RGB reference APs for all resamples
+[13:23:08]   pre cgcmf_dat s0 p2_blur_31: 35756 records (1.1s)
+[13:23:09]   pre cgcmf_dat s1 p2_blur_31: 36268 records (1.0s)
+[13:23:10]   pre cgcmf_dat s2 p2_blur_31: 31541 records (0.8s)
+[13:23:23] FLIR cgcmf_dat p2_blur_31                     point  -33.2317 | old [ -45.203, -29.667] rel 0.77 | pps [ -39.430, -29.242] rel 0.61 cross=0 | cmean point  -33.075 [ -65.585, -10.329] cross=0
+[13:23:25]   pre cgcmf_dat s0 p2_misalign_60: 125355 records (2.4s)
+[13:23:27]   pre cgcmf_dat s1 p2_misalign_60: 119732 records (1.7s)
+[13:23:29]   pre cgcmf_dat s2 p2_misalign_60: 113833 records (1.6s)
+[13:24:06] FLIR cgcmf_dat p2_misalign_60                 point  -47.8198 | old [ -57.804, -44.435] rel 0.75 | pps [ -53.329, -43.711] rel 0.57 cross=0 | cmean point  -47.513 [ -95.546, -14.080] cross=0
+[13:24:07]   pre cgcmf_dat s0 p2_misalign_100: 99615 records (1.5s)
+[13:24:09]   pre cgcmf_dat s1 p2_misalign_100: 100052 records (1.6s)
+[13:24:10]   pre cgcmf_dat s2 p2_misalign_100: 96896 records (1.5s)
+[13:24:39] FLIR cgcmf_dat p2_misalign_100                point  -49.8542 | old [ -59.828, -45.762] rel 0.71 | pps [ -55.300, -44.896] rel 0.52 cross=0 | cmean point  -49.055 [ -98.430, -14.388] cross=0
+[13:24:43]   pre cgcmf_dat s0 p2_missing_rect90: 224301 records (3.8s)
+[13:24:46]   pre cgcmf_dat s1 p2_missing_rect90: 204353 records (3.5s)
+[13:24:50]   pre cgcmf_dat s2 p2_missing_rect90: 193441 records (3.9s)
+[13:25:53] FLIR cgcmf_dat p2_missing_rect90              point   -5.6867 | old [ -10.389,  -4.585] rel 0.81 | pps [  -8.366,  -4.489] rel 0.69 cross=0 | cmean point   -5.694 [ -10.332,  -2.231] cross=0
+[13:25:54]   pre cgcmf_dat s0 p2_vcombo_hotpx_misalign: 101470 records (1.3s)
+[13:25:56]   pre cgcmf_dat s1 p2_vcombo_hotpx_misalign: 106136 records (1.7s)
+[13:25:57]   pre cgcmf_dat s2 p2_vcombo_hotpx_misalign: 88843 records (1.3s)
+[13:26:26] FLIR cgcmf_dat p2_vcombo_hotpx_misalign       point  -49.3655 | old [ -57.695, -46.459] rel 0.74 | pps [ -54.162, -45.822] rel 0.58 cross=0 | cmean point  -49.042 [ -99.380, -14.050] cross=0
+[13:26:29]   pre cgcmf_dat s0 p2_vcombo_noise_misalign: 142218 records (2.5s)
+[13:26:30]   pre cgcmf_dat s1 p2_vcombo_noise_misalign: 92642 records (1.7s)
+[13:26:32]   pre cgcmf_dat s2 p2_vcombo_noise_misalign: 85061 records (1.6s)
+[13:27:07] FLIR cgcmf_dat p2_vcombo_noise_misalign       point  -24.5329 | old [ -39.131, -20.765] rel 0.79 | pps [ -32.674, -19.904] rel 0.64 cross=0 | cmean point  -24.395 [ -44.806,  -9.280] cross=0
+[13:27:09]   pre cgcmf_dat s0 p2_vcombo_blur_quant: 111335 records (2.5s)
+[13:27:11]   pre cgcmf_dat s1 p2_vcombo_blur_quant: 56980 records (1.5s)
+[13:27:12]   pre cgcmf_dat s2 p2_vcombo_blur_quant: 64913 records (1.2s)
+[13:27:35] FLIR cgcmf_dat p2_vcombo_blur_quant           point  -36.8678 | old [ -45.027, -34.126] rel 0.75 | pps [ -40.958, -32.853] rel 0.50 cross=0 | cmean point  -36.950 [ -75.877, -10.396] cross=0
+[13:27:36]   pre cgcmf_fmaug s0 p2_blur_31: 37829 records (0.8s)
+[13:27:36]   pre cgcmf_fmaug s1 p2_blur_31: 18960 records (0.4s)
+[13:27:37]   pre cgcmf_fmaug s2 p2_blur_31: 23478 records (0.5s)
+[13:27:46] FLIR cgcmf_fmaug p2_blur_31                     point  -39.6343 | old [ -50.109, -35.802] rel 0.73 | pps [ -44.633, -34.876] rel 0.51 cross=0 | cmean point  -39.451 [ -80.259, -11.546] cross=0
+[13:27:49]   pre cgcmf_fmaug s0 p2_misalign_60: 148456 records (2.7s)
+[13:27:52]   pre cgcmf_fmaug s1 p2_misalign_60: 145066 records (2.9s)
+[13:27:55]   pre cgcmf_fmaug s2 p2_misalign_60: 141554 records (2.7s)
+[13:28:41] FLIR cgcmf_fmaug p2_misalign_60                 point  -40.0956 | old [ -52.077, -36.625] rel 0.78 | pps [ -46.701, -35.579] rel 0.59 cross=0 | cmean point  -40.002 [ -78.146, -13.087] cross=0
+[13:28:43]   pre cgcmf_fmaug s0 p2_misalign_100: 134639 records (2.0s)
+[13:28:46]   pre cgcmf_fmaug s1 p2_misalign_100: 130591 records (2.4s)
+[13:28:48]   pre cgcmf_fmaug s2 p2_misalign_100: 124678 records (2.1s)
+[13:29:23] FLIR cgcmf_fmaug p2_misalign_100                point  -42.9720 | old [ -57.150, -37.987] rel 0.74 | pps [ -50.857, -36.618] rel 0.55 cross=0 | cmean point  -42.437 [ -81.926, -14.145] cross=0
+[13:29:26]   pre cgcmf_fmaug s0 p2_missing_rect90: 236169 records (3.6s)
+[13:29:30]   pre cgcmf_fmaug s1 p2_missing_rect90: 215627 records (3.4s)
+[13:29:33]   pre cgcmf_fmaug s2 p2_missing_rect90: 226013 records (3.6s)
+[13:30:40] FLIR cgcmf_fmaug p2_missing_rect90              point   -8.5104 | old [ -13.677,  -7.173] rel 0.79 | pps [ -11.495,  -6.848] rel 0.64 cross=0 | cmean point   -8.546 [ -15.436,  -3.394] cross=0
+[13:30:43]   pre cgcmf_fmaug s0 p2_vcombo_hotpx_misalign: 157039 records (2.8s)
+[13:30:45]   pre cgcmf_fmaug s1 p2_vcombo_hotpx_misalign: 149597 records (2.6s)
+[13:30:48]   pre cgcmf_fmaug s2 p2_vcombo_hotpx_misalign: 143787 records (2.3s)
+[13:31:35] FLIR cgcmf_fmaug p2_vcombo_hotpx_misalign       point  -35.2173 | old [ -48.822, -31.430] rel 0.78 | pps [ -42.600, -30.393] rel 0.60 cross=0 | cmean point  -35.109 [ -67.377, -11.993] cross=0
+[13:31:38]   pre cgcmf_fmaug s0 p2_vcombo_noise_misalign: 195995 records (3.2s)
+[13:31:40]   pre cgcmf_fmaug s1 p2_vcombo_noise_misalign: 164693 records (2.6s)
+[13:31:47]   pre cgcmf_fmaug s2 p2_vcombo_noise_misalign: 187770 records (6.4s)
+[13:32:52] FLIR cgcmf_fmaug p2_vcombo_noise_misalign       point  -19.9694 | old [ -30.860, -17.464] rel 0.81 | pps [ -26.222, -16.819] rel 0.66 cross=0 | cmean point  -20.077 [ -37.263,  -7.486] cross=0
+[13:32:53]   pre cgcmf_fmaug s0 p2_vcombo_blur_quant: 76728 records (1.2s)
+[13:32:55]   pre cgcmf_fmaug s1 p2_vcombo_blur_quant: 81877 records (1.5s)
+[13:32:56]   pre cgcmf_fmaug s2 p2_vcombo_blur_quant: 93581 records (1.4s)
+[13:33:24] FLIR cgcmf_fmaug p2_vcombo_blur_quant           point  -35.9363 | old [ -44.854, -32.955] rel 0.75 | pps [ -40.283, -31.719] rel 0.51 cross=0 | cmean point  -36.009 [ -73.706, -10.289] cross=0
+[13:33:24] === M3FD: 654 frames, 3 clusters, sizes [182, 181, 291]
+[13:33:25]   pre rgb s0: 63337 records (1.0s)
+[13:33:26]   pre rgb s1: 56212 records (1.1s)
+[13:33:27]   pre rgb s2: 65105 records (1.0s)
+[13:33:27]   precomputing shared RGB reference APs for all resamples
+[13:33:49]   pre cgcmf_dat s0 p2_blur_31: 23404 records (0.3s)
+[13:33:49]   pre cgcmf_dat s1 p2_blur_31: 18410 records (0.3s)
+[13:33:50]   pre cgcmf_dat s2 p2_blur_31: 22504 records (0.5s)
+[13:33:59] M3FD cgcmf_dat p2_blur_31                     point   -2.5179 | old [ -12.093,  +0.245] rel 0.78 | pps [ -10.613,  +0.321] rel 0.74 cross=1 | cmean point   -6.127 [ -10.041,  -2.174] cross=0
+[13:34:00]   pre cgcmf_dat s0 p2_misalign_60: 45837 records (0.7s)
+[13:34:01]   pre cgcmf_dat s1 p2_misalign_60: 42113 records (0.7s)
+[13:34:01]   pre cgcmf_dat s2 p2_misalign_60: 46561 records (0.8s)
+[13:34:16] M3FD cgcmf_dat p2_misalign_60                 point   -3.8082 | old [ -13.633,  -2.285] rel 0.87 | pps [ -12.732,  -2.437] rel 0.87 cross=0 | cmean point   -8.589 [ -11.319,  -3.816] cross=0
+[13:34:17]   pre cgcmf_dat s0 p2_misalign_100: 43355 records (0.7s)
+[13:34:17]   pre cgcmf_dat s1 p2_misalign_100: 38460 records (0.5s)
+[13:34:18]   pre cgcmf_dat s2 p2_misalign_100: 42366 records (0.7s)
+[13:34:31] M3FD cgcmf_dat p2_misalign_100                point  -10.5331 | old [ -18.159,  -9.264] rel 0.86 | pps [ -16.525,  -9.329] rel 0.83 cross=0 | cmean point  -13.778 [ -15.077, -12.454] cross=0
+[13:34:33]   pre cgcmf_dat s0 p2_missing_rect90: 102852 records (1.5s)
+[13:34:34]   pre cgcmf_dat s1 p2_missing_rect90: 91521 records (1.3s)
+[13:34:36]   pre cgcmf_dat s2 p2_missing_rect90: 90544 records (1.3s)
+[13:35:06] M3FD cgcmf_dat p2_missing_rect90              point   -1.4512 | old [  -4.131,  +3.596] rel 0.35 | pps [  -2.797,  -0.147] rel 0.51 cross=0 | cmean point   -1.148 [  -3.430,  +3.002] cross=1
+[13:35:07]   pre cgcmf_dat s0 p2_vcombo_hotpx_misalign: 129095 records (1.7s)
+[13:35:08]   pre cgcmf_dat s1 p2_vcombo_hotpx_misalign: 59282 records (0.9s)
+[13:35:09]   pre cgcmf_dat s2 p2_vcombo_hotpx_misalign: 62791 records (0.9s)
+[13:35:33] M3FD cgcmf_dat p2_vcombo_hotpx_misalign       point  -16.7355 | old [ -39.444, -14.020] rel 0.89 | pps [ -29.710, -14.019] rel 0.83 cross=0 | cmean point  -24.276 [ -32.749, -18.715] cross=0
+[13:35:35]   pre cgcmf_dat s0 p2_vcombo_noise_misalign: 74587 records (1.2s)
+[13:35:36]   pre cgcmf_dat s1 p2_vcombo_noise_misalign: 70494 records (1.1s)
+[13:35:36]   pre cgcmf_dat s2 p2_vcombo_noise_misalign: 33209 records (0.6s)
+[13:35:58] M3FD cgcmf_dat p2_vcombo_noise_misalign       point  -12.6943 | old [ -18.027, -11.085] rel 0.77 | pps [ -16.335, -11.078] rel 0.69 cross=0 | cmean point  -14.978 [ -16.321, -13.564] cross=0
+[13:35:58]   pre cgcmf_dat s0 p2_vcombo_blur_quant: 23988 records (0.5s)
+[13:35:59]   pre cgcmf_dat s1 p2_vcombo_blur_quant: 29445 records (0.5s)
+[13:35:59]   pre cgcmf_dat s2 p2_vcombo_blur_quant: 31677 records (0.5s)
+[13:36:12] M3FD cgcmf_dat p2_vcombo_blur_quant           point   -6.1003 | old [ -15.793,  -5.001] rel 0.90 | pps [ -13.240,  -5.137] rel 0.88 cross=0 | cmean point  -10.828 [ -13.112,  -8.321] cross=0
+[13:36:12]   pre cgcmf_fmaug s0 p2_blur_31: 14118 records (0.3s)
+[13:36:12]   pre cgcmf_fmaug s1 p2_blur_31: 12439 records (0.3s)
+[13:36:13]   pre cgcmf_fmaug s2 p2_blur_31: 14622 records (0.4s)
+[13:36:21] M3FD cgcmf_fmaug p2_blur_31                     point   -4.7260 | old [ -15.443,  -2.210] rel 0.81 | pps [ -12.854,  -2.185] rel 0.76 cross=0 | cmean point   -8.195 [ -12.822,  -5.515] cross=0
+[13:36:21]   pre cgcmf_fmaug s0 p2_misalign_60: 39198 records (0.6s)
+[13:36:22]   pre cgcmf_fmaug s1 p2_misalign_60: 38878 records (0.6s)
+[13:36:23]   pre cgcmf_fmaug s2 p2_misalign_60: 39253 records (0.6s)
+[13:36:38] M3FD cgcmf_fmaug p2_misalign_60                 point   -2.4962 | old [ -14.299,  -1.617] rel 0.93 | pps [ -13.193,  -1.746] rel 0.93 cross=0 | cmean point   -8.644 [ -11.872,  -3.040] cross=0
+[13:36:38]   pre cgcmf_fmaug s0 p2_misalign_100: 36054 records (0.6s)
+[13:36:39]   pre cgcmf_fmaug s1 p2_misalign_100: 35295 records (0.5s)
+[13:36:39]   pre cgcmf_fmaug s2 p2_misalign_100: 34079 records (0.6s)
+[13:36:52] M3FD cgcmf_fmaug p2_misalign_100                point  -10.1298 | old [ -18.616,  -9.912] rel 0.97 | pps [ -18.570,  -9.951] rel 0.98 cross=0 | cmean point  -15.373 [ -15.508, -15.153] cross=0
+[13:36:53]   pre cgcmf_fmaug s0 p2_missing_rect90: 85183 records (1.3s)
+[13:36:55]   pre cgcmf_fmaug s1 p2_missing_rect90: 84473 records (1.3s)
+[13:36:56]   pre cgcmf_fmaug s2 p2_missing_rect90: 83848 records (1.3s)
+[13:37:24] M3FD cgcmf_fmaug p2_missing_rect90              point   -2.0649 | old [  -4.661,  -0.430] rel 0.61 | pps [  -3.479,  -1.223] rel 0.63 cross=0 | cmean point   -2.687 [  -3.870,  -0.359] cross=0
+[13:37:24]   pre cgcmf_fmaug s0 p2_vcombo_hotpx_misalign: 43204 records (0.8s)
+[13:37:25]   pre cgcmf_fmaug s1 p2_vcombo_hotpx_misalign: 39137 records (0.9s)
+[13:37:26]   pre cgcmf_fmaug s2 p2_vcombo_hotpx_misalign: 35145 records (0.9s)
+[13:37:41] M3FD cgcmf_fmaug p2_vcombo_hotpx_misalign       point  -10.2105 | old [ -19.314,  -8.623] rel 0.85 | pps [ -16.457,  -8.848] rel 0.82 cross=0 | cmean point  -13.897 [ -16.036, -12.095] cross=0
+[13:37:42]   pre cgcmf_fmaug s0 p2_vcombo_noise_misalign: 38857 records (0.7s)
+[13:37:42]   pre cgcmf_fmaug s1 p2_vcombo_noise_misalign: 31958 records (0.6s)
+[13:37:43]   pre cgcmf_fmaug s2 p2_vcombo_noise_misalign: 26874 records (0.6s)
+[13:37:56] M3FD cgcmf_fmaug p2_vcombo_noise_misalign       point   -5.0601 | old [ -10.783,  -4.615] rel 0.93 | pps [ -10.046,  -4.527] rel 0.90 cross=0 | cmean point   -8.690 [  -9.002,  -8.342] cross=0
+[13:37:56]   pre cgcmf_fmaug s0 p2_vcombo_blur_quant: 22282 records (0.5s)
+[13:37:56]   pre cgcmf_fmaug s1 p2_vcombo_blur_quant: 17448 records (0.4s)
+[13:37:57]   pre cgcmf_fmaug s2 p2_vcombo_blur_quant: 17007 records (0.3s)
+[13:38:05] M3FD cgcmf_fmaug p2_vcombo_blur_quant           point   -8.1756 | old [ -22.989,  -6.524] rel 0.90 | pps [ -18.055,  -6.726] rel 0.87 cross=0 | cmean point  -14.103 [ -19.088, -10.586] cross=0
+[13:38:05] wrote /root/autodl-tmp/ci_reweight_20261020/reweight_ci_28.csv (28 rows)
+[13:38:05] SUMMARY old: fully-negative 26/28, fully-positive 0/28, cross-zero 2/28
+[13:38:05] SUMMARY pps_ht: fully-negative 27/28, fully-positive 0/28, cross-zero 1/28
+[13:38:05] SUMMARY cluster_mean: fully-negative 27/28, fully-positive 0/28, cross-zero 1/28

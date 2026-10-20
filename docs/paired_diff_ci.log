@@ -1,0 +1,319 @@
+[13:39:45] === FLIR_P26 (FLIR): 1013 frames, 6 clusters
+[13:39:46]   pre cgcmf_dat s0 p2_blur_31: 35756 records (0.6s)
+[13:39:46]   pre cgcmf_dat s1 p2_blur_31: 36268 records (0.7s)
+[13:39:47]   pre cgcmf_dat s2 p2_blur_31: 31541 records (0.5s)
+[13:39:58]   pre cgcmf_fmaug s0 p2_blur_31: 37829 records (0.7s)
+[13:39:58]   pre cgcmf_fmaug s1 p2_blur_31: 18960 records (0.4s)
+[13:39:59]   pre cgcmf_fmaug s2 p2_blur_31: 23478 records (0.5s)
+[13:40:07] FLIR_P26  DAT_vs_FMAug                 p2_blur_31                     d   +6.403 [  +4.722,  +7.557] cross=0
+[13:40:07]   partial: 1 rows -> /root/autodl-tmp/ci_reweight_20261020/paired_diff_ci.csv
+[13:40:09]   pre cgcmf_dat s0 p2_misalign_60: 125355 records (2.6s)
+[13:40:11]   pre cgcmf_dat s1 p2_misalign_60: 119732 records (2.0s)
+[13:40:13]   pre cgcmf_dat s2 p2_misalign_60: 113833 records (1.9s)
+[13:40:48]   pre cgcmf_fmaug s0 p2_misalign_60: 148456 records (2.6s)
+[13:40:50]   pre cgcmf_fmaug s1 p2_misalign_60: 145066 records (2.3s)
+[13:40:53]   pre cgcmf_fmaug s2 p2_misalign_60: 141554 records (3.0s)
+[13:41:32] FLIR_P26  DAT_vs_FMAug                 p2_misalign_60                 d   -7.724 [  -8.944,  -5.938] cross=0
+[13:41:32]   partial: 2 rows -> /root/autodl-tmp/ci_reweight_20261020/paired_diff_ci.csv
+[13:41:34]   pre cgcmf_dat s0 p2_misalign_100: 99615 records (1.9s)
+[13:41:35]   pre cgcmf_dat s1 p2_misalign_100: 100052 records (1.3s)
+[13:41:37]   pre cgcmf_dat s2 p2_misalign_100: 96896 records (1.2s)
+[13:42:02]   pre cgcmf_fmaug s0 p2_misalign_100: 134639 records (1.9s)
+[13:42:04]   pre cgcmf_fmaug s1 p2_misalign_100: 130591 records (1.9s)
+[13:42:06]   pre cgcmf_fmaug s2 p2_misalign_100: 124678 records (1.9s)
+[13:42:36] FLIR_P26  DAT_vs_FMAug                 p2_misalign_100                d   -6.882 [  -8.278,  -4.442] cross=0
+[13:42:36]   partial: 3 rows -> /root/autodl-tmp/ci_reweight_20261020/paired_diff_ci.csv
+[13:42:39]   pre cgcmf_dat s0 p2_missing_rect90: 224301 records (2.8s)
+[13:42:41]   pre cgcmf_dat s1 p2_missing_rect90: 204353 records (2.7s)
+[13:42:44]   pre cgcmf_dat s2 p2_missing_rect90: 193441 records (2.7s)
+[13:43:43]   pre cgcmf_fmaug s0 p2_missing_rect90: 236169 records (3.3s)
+[13:43:46]   pre cgcmf_fmaug s1 p2_missing_rect90: 215627 records (3.2s)
+[13:43:50]   pre cgcmf_fmaug s2 p2_missing_rect90: 226013 records (3.8s)
+[13:44:44] FLIR_P26  DAT_vs_FMAug                 p2_missing_rect90              d   +2.824 [  +2.083,  +3.812] cross=0
+[13:44:44]   partial: 4 rows -> /root/autodl-tmp/ci_reweight_20261020/paired_diff_ci.csv
+[13:44:45]   pre cgcmf_dat s0 p2_vcombo_hotpx_misalign: 101470 records (1.4s)
+[13:44:47]   pre cgcmf_dat s1 p2_vcombo_hotpx_misalign: 106136 records (1.5s)
+[13:44:48]   pre cgcmf_dat s2 p2_vcombo_hotpx_misalign: 88843 records (1.1s)
+[13:45:16]   pre cgcmf_fmaug s0 p2_vcombo_hotpx_misalign: 157039 records (2.9s)
+[13:45:18]   pre cgcmf_fmaug s1 p2_vcombo_hotpx_misalign: 149597 records (2.3s)
+[13:45:21]   pre cgcmf_fmaug s2 p2_vcombo_hotpx_misalign: 143787 records (2.3s)
+[13:46:00] FLIR_P26  DAT_vs_FMAug                 p2_vcombo_hotpx_misalign       d  -14.148 [ -15.460, -11.119] cross=0
+[13:46:00]   partial: 5 rows -> /root/autodl-tmp/ci_reweight_20261020/paired_diff_ci.csv
+[13:46:03]   pre cgcmf_dat s0 p2_vcombo_noise_misalign: 142218 records (2.2s)
+[13:46:04]   pre cgcmf_dat s1 p2_vcombo_noise_misalign: 92642 records (1.3s)
+[13:46:05]   pre cgcmf_dat s2 p2_vcombo_noise_misalign: 85061 records (1.3s)
+[13:46:37]   pre cgcmf_fmaug s0 p2_vcombo_noise_misalign: 195995 records (2.9s)
+[13:46:40]   pre cgcmf_fmaug s1 p2_vcombo_noise_misalign: 164693 records (2.5s)
+[13:46:42]   pre cgcmf_fmaug s2 p2_vcombo_noise_misalign: 187770 records (2.8s)
+[13:47:32] FLIR_P26  DAT_vs_FMAug                 p2_vcombo_noise_misalign       d   -4.563 [  -6.463,  -3.085] cross=0
+[13:47:32]   partial: 6 rows -> /root/autodl-tmp/ci_reweight_20261020/paired_diff_ci.csv
+[13:47:34]   pre cgcmf_dat s0 p2_vcombo_blur_quant: 111335 records (1.6s)
+[13:47:35]   pre cgcmf_dat s1 p2_vcombo_blur_quant: 56980 records (1.0s)
+[13:47:36]   pre cgcmf_dat s2 p2_vcombo_blur_quant: 64913 records (0.9s)
+[13:47:57]   pre cgcmf_fmaug s0 p2_vcombo_blur_quant: 76728 records (1.2s)
+[13:47:59]   pre cgcmf_fmaug s1 p2_vcombo_blur_quant: 81877 records (1.2s)
+[13:48:00]   pre cgcmf_fmaug s2 p2_vcombo_blur_quant: 93581 records (1.4s)
+[13:48:23] FLIR_P26  DAT_vs_FMAug                 p2_vcombo_blur_quant           d   -0.932 [  -1.274,  -0.349] cross=0
+[13:48:23]   partial: 7 rows -> /root/autodl-tmp/ci_reweight_20261020/paired_diff_ci.csv
+[13:48:23] === M3FD_P26 (M3FD): 654 frames, 3 clusters
+[13:48:23]   pre cgcmf_cleanft_ub s0 p2_blur_31: 7540 records (0.2s)
+[13:48:24]   pre cgcmf_cleanft_ub s1 p2_blur_31: 10760 records (0.3s)
+[13:48:24]   pre cgcmf_cleanft_ub s2 p2_blur_31: 13487 records (0.2s)
+[13:48:30]   pre cgcmf_dat_ub s0 p2_blur_31: 23404 records (0.5s)
+[13:48:30]   pre cgcmf_dat_ub s1 p2_blur_31: 18410 records (0.4s)
+[13:48:31]   pre cgcmf_dat_ub s2 p2_blur_31: 22504 records (0.4s)
+[13:48:38]   pre cgcmf_fmaug_ub s0 p2_blur_31: 14118 records (0.3s)
+[13:48:38]   pre cgcmf_fmaug_ub s1 p2_blur_31: 12439 records (0.2s)
+[13:48:39]   pre cgcmf_fmaug_ub s2 p2_blur_31: 14622 records (0.2s)
+[13:48:44]   pre midfusion_dat_v2 s0 p2_blur_31: 32321 records (0.5s)
+[13:48:44]   pre midfusion_dat_v2 s1 p2_blur_31: 23871 records (0.3s)
+[13:48:45]   pre midfusion_dat_v2 s2 p2_blur_31: 20520 records (0.3s)
+[13:48:52]   pre midfusion_v2 s0 p2_blur_31: 25761 records (0.3s)
+[13:48:53]   pre midfusion_v2 s1 p2_blur_31: 20279 records (0.3s)
+[13:48:53]   pre midfusion_v2 s2 p2_blur_31: 13378 records (0.2s)
+[13:48:59] M3FD_P26  DAT_vs_FMAug                 p2_blur_31                     d   +2.208 [  +2.030,  +2.505] cross=0
+[13:48:59] M3FD_P26  MidFusion_vs_CleanFT         p2_blur_31                     d   +8.174 [  +4.061, +19.983] cross=0
+[13:48:59] M3FD_P26  MidFusionDAT_vs_DAT          p2_blur_31                     d   +2.221 [  +1.022,  +6.042] cross=0
+[13:48:59] M3FD_P26  DAT_vs_CleanFT               p2_blur_31                     d  +10.468 [  +9.022, +18.518] cross=0
+[13:48:59] M3FD_P26  FMAug_vs_CleanFT             p2_blur_31                     d   +8.260 [  +6.519, +16.328] cross=0
+[13:48:59] M3FD_P26  MidFusionDAT_vs_CleanFT      p2_blur_31                     d  +12.689 [ +10.044, +24.289] cross=0
+[13:48:59]   partial: 13 rows -> /root/autodl-tmp/ci_reweight_20261020/paired_diff_ci.csv
+[13:48:59]   pre cgcmf_cleanft_ub s0 p2_misalign_60: 30091 records (0.3s)
+[13:49:00]   pre cgcmf_cleanft_ub s1 p2_misalign_60: 36324 records (0.5s)
+[13:49:00]   pre cgcmf_cleanft_ub s2 p2_misalign_60: 42218 records (0.5s)
+[13:49:10]   pre cgcmf_dat_ub s0 p2_misalign_60: 45837 records (0.7s)
+[13:49:11]   pre cgcmf_dat_ub s1 p2_misalign_60: 42113 records (0.5s)
+[13:49:12]   pre cgcmf_dat_ub s2 p2_misalign_60: 46561 records (0.7s)
+[13:49:27]   pre cgcmf_fmaug_ub s0 p2_misalign_60: 39198 records (0.6s)
+[13:49:27]   pre cgcmf_fmaug_ub s1 p2_misalign_60: 38878 records (0.5s)
+[13:49:28]   pre cgcmf_fmaug_ub s2 p2_misalign_60: 39253 records (0.5s)
+[13:49:41]   pre midfusion_dat_v2 s0 p2_misalign_60: 43821 records (0.6s)
+[13:49:42]   pre midfusion_dat_v2 s1 p2_misalign_60: 45569 records (0.6s)
+[13:49:42]   pre midfusion_dat_v2 s2 p2_misalign_60: 34206 records (0.5s)
+[13:49:59]   pre midfusion_v2 s0 p2_misalign_60: 50563 records (0.7s)
+[13:50:00]   pre midfusion_v2 s1 p2_misalign_60: 47651 records (0.8s)
+[13:50:00]   pre midfusion_v2 s2 p2_misalign_60: 28943 records (0.5s)
+[13:50:13] M3FD_P26  DAT_vs_FMAug                 p2_misalign_60                 d   -1.312 [  -1.451,  +0.461] cross=1
+[13:50:13] M3FD_P26  MidFusion_vs_CleanFT         p2_misalign_60                 d   +2.888 [  +0.619,  +9.454] cross=0
+[13:50:13] M3FD_P26  MidFusionDAT_vs_DAT          p2_misalign_60                 d   +0.680 [  +0.272,  +2.567] cross=0
+[13:50:13] M3FD_P26  DAT_vs_CleanFT               p2_misalign_60                 d  +16.941 [ +13.368, +23.246] cross=0
+[13:50:13] M3FD_P26  FMAug_vs_CleanFT             p2_misalign_60                 d  +18.253 [ +14.649, +24.072] cross=0
+[13:50:13] M3FD_P26  MidFusionDAT_vs_CleanFT      p2_misalign_60                 d  +17.621 [ +13.677, +25.135] cross=0
+[13:50:13]   partial: 19 rows -> /root/autodl-tmp/ci_reweight_20261020/paired_diff_ci.csv
+[13:50:13]   pre cgcmf_cleanft_ub s0 p2_misalign_100: 26031 records (0.4s)
+[13:50:14]   pre cgcmf_cleanft_ub s1 p2_misalign_100: 34335 records (0.4s)
+[13:50:14]   pre cgcmf_cleanft_ub s2 p2_misalign_100: 37962 records (0.5s)
+[13:50:25]   pre cgcmf_dat_ub s0 p2_misalign_100: 43355 records (0.7s)
+[13:50:25]   pre cgcmf_dat_ub s1 p2_misalign_100: 38460 records (0.5s)
+[13:50:26]   pre cgcmf_dat_ub s2 p2_misalign_100: 42366 records (0.5s)
+[13:50:37]   pre cgcmf_fmaug_ub s0 p2_misalign_100: 36054 records (0.5s)
+[13:50:38]   pre cgcmf_fmaug_ub s1 p2_misalign_100: 35295 records (0.4s)
+[13:50:38]   pre cgcmf_fmaug_ub s2 p2_misalign_100: 34079 records (0.5s)
+[13:50:48]   pre midfusion_dat_v2 s0 p2_misalign_100: 39956 records (0.5s)
+[13:50:49]   pre midfusion_dat_v2 s1 p2_misalign_100: 42774 records (0.5s)
+[13:50:49]   pre midfusion_dat_v2 s2 p2_misalign_100: 30799 records (0.5s)
+[13:51:02]   pre midfusion_v2 s0 p2_misalign_100: 47069 records (0.6s)
+[13:51:03]   pre midfusion_v2 s1 p2_misalign_100: 45220 records (0.6s)
+[13:51:03]   pre midfusion_v2 s2 p2_misalign_100: 25019 records (0.4s)
+[13:51:16] M3FD_P26  DAT_vs_FMAug                 p2_misalign_100                d   -0.403 [  -0.635,  +2.022] cross=1
+[13:51:16] M3FD_P26  MidFusion_vs_CleanFT         p2_misalign_100                d   +1.435 [  +0.775,  +3.836] cross=0
+[13:51:16] M3FD_P26  MidFusionDAT_vs_DAT          p2_misalign_100                d   +4.258 [  +1.611,  +6.330] cross=0
+[13:51:16] M3FD_P26  DAT_vs_CleanFT               p2_misalign_100                d  +17.175 [ +13.146, +24.794] cross=0
+[13:51:16] M3FD_P26  FMAug_vs_CleanFT             p2_misalign_100                d  +17.578 [ +12.737, +25.279] cross=0
+[13:51:16] M3FD_P26  MidFusionDAT_vs_CleanFT      p2_misalign_100                d  +21.433 [ +17.253, +26.418] cross=0
+[13:51:16]   partial: 25 rows -> /root/autodl-tmp/ci_reweight_20261020/paired_diff_ci.csv
+[13:51:17]   pre cgcmf_cleanft_ub s0 p2_missing_rect90: 17906 records (0.4s)
+[13:51:17]   pre cgcmf_cleanft_ub s1 p2_missing_rect90: 15595 records (0.3s)
+[13:51:17]   pre cgcmf_cleanft_ub s2 p2_missing_rect90: 18957 records (0.3s)
+[13:51:27]   pre cgcmf_dat_ub s0 p2_missing_rect90: 102852 records (1.4s)
+[13:51:28]   pre cgcmf_dat_ub s1 p2_missing_rect90: 91521 records (1.2s)
+[13:51:29]   pre cgcmf_dat_ub s2 p2_missing_rect90: 90544 records (1.3s)
+[13:51:57]   pre cgcmf_fmaug_ub s0 p2_missing_rect90: 85183 records (1.1s)
+[13:51:58]   pre cgcmf_fmaug_ub s1 p2_missing_rect90: 84473 records (1.2s)
+[13:51:59]   pre cgcmf_fmaug_ub s2 p2_missing_rect90: 83848 records (1.1s)
+[13:52:27]   pre midfusion_dat_v2 s0 p2_missing_rect90: 107871 records (1.5s)
+[13:52:28]   pre midfusion_dat_v2 s1 p2_missing_rect90: 73623 records (1.0s)
+[13:52:29]   pre midfusion_dat_v2 s2 p2_missing_rect90: 94343 records (1.4s)
+[13:52:53]   pre midfusion_v2 s0 p2_missing_rect90: 21394 records (0.3s)
+[13:52:54]   pre midfusion_v2 s1 p2_missing_rect90: 23891 records (0.3s)
+[13:52:54]   pre midfusion_v2 s2 p2_missing_rect90: 31341 records (0.4s)
+[13:53:02] M3FD_P26  DAT_vs_FMAug                 p2_missing_rect90              d   +0.614 [  +0.611,  +2.047] cross=0
+[13:53:02] M3FD_P26  MidFusion_vs_CleanFT         p2_missing_rect90              d   +3.080 [  +2.390,  +7.305] cross=0
+[13:53:02] M3FD_P26  MidFusionDAT_vs_DAT          p2_missing_rect90              d   +1.463 [  -4.498,  +6.372] cross=1
+[13:53:02] M3FD_P26  DAT_vs_CleanFT               p2_missing_rect90              d  +20.911 [ +19.744, +31.963] cross=0
+[13:53:02] M3FD_P26  FMAug_vs_CleanFT             p2_missing_rect90              d  +20.298 [ +18.670, +29.916] cross=0
+[13:53:02] M3FD_P26  MidFusionDAT_vs_CleanFT      p2_missing_rect90              d  +22.374 [ +19.910, +27.466] cross=0
+[13:53:02]   partial: 31 rows -> /root/autodl-tmp/ci_reweight_20261020/paired_diff_ci.csv
+[13:53:03]   pre cgcmf_cleanft_ub s0 p2_vcombo_hotpx_misalign: 116562 records (1.4s)
+[13:53:04]   pre cgcmf_cleanft_ub s1 p2_vcombo_hotpx_misalign: 124468 records (1.4s)
+[13:53:05]   pre cgcmf_cleanft_ub s2 p2_vcombo_hotpx_misalign: 66496 records (0.8s)
+[13:53:37]   pre cgcmf_dat_ub s0 p2_vcombo_hotpx_misalign: 129095 records (1.6s)
+[13:53:38]   pre cgcmf_dat_ub s1 p2_vcombo_hotpx_misalign: 59282 records (0.8s)
+[13:53:39]   pre cgcmf_dat_ub s2 p2_vcombo_hotpx_misalign: 62791 records (0.9s)
+[13:54:00]   pre cgcmf_fmaug_ub s0 p2_vcombo_hotpx_misalign: 43204 records (0.6s)
+[13:54:00]   pre cgcmf_fmaug_ub s1 p2_vcombo_hotpx_misalign: 39137 records (0.4s)
+[13:54:01]   pre cgcmf_fmaug_ub s2 p2_vcombo_hotpx_misalign: 35145 records (0.5s)
+[13:54:12]   pre midfusion_dat_v2 s0 p2_vcombo_hotpx_misalign: 45900 records (0.5s)
+[13:54:12]   pre midfusion_dat_v2 s1 p2_vcombo_hotpx_misalign: 50353 records (0.6s)
+[13:54:13]   pre midfusion_dat_v2 s2 p2_vcombo_hotpx_misalign: 37945 records (0.5s)
+[13:54:28]   pre midfusion_v2 s0 p2_vcombo_hotpx_misalign: 58557 records (0.7s)
+[13:54:29]   pre midfusion_v2 s1 p2_vcombo_hotpx_misalign: 94848 records (1.1s)
+[13:54:29]   pre midfusion_v2 s2 p2_vcombo_hotpx_misalign: 37467 records (0.4s)
+[13:54:48] M3FD_P26  DAT_vs_FMAug                 p2_vcombo_hotpx_misalign       d   -6.525 [ -13.253,  -4.875] cross=0
+[13:54:48] M3FD_P26  MidFusion_vs_CleanFT         p2_vcombo_hotpx_misalign       d   +9.018 [  +8.612, +10.262] cross=0
+[13:54:48] M3FD_P26  MidFusionDAT_vs_DAT          p2_vcombo_hotpx_misalign       d  +12.829 [ +11.094, +19.274] cross=0
+[13:54:48] M3FD_P26  DAT_vs_CleanFT               p2_vcombo_hotpx_misalign       d  +14.462 [ +12.095, +17.244] cross=0
+[13:54:48] M3FD_P26  FMAug_vs_CleanFT             p2_vcombo_hotpx_misalign       d  +20.987 [ +17.158, +30.177] cross=0
+[13:54:48] M3FD_P26  MidFusionDAT_vs_CleanFT      p2_vcombo_hotpx_misalign       d  +27.292 [ +23.189, +35.773] cross=0
+[13:54:48]   partial: 37 rows -> /root/autodl-tmp/ci_reweight_20261020/paired_diff_ci.csv
+[13:54:51]   pre cgcmf_cleanft_ub s0 p2_vcombo_noise_misalign: 196200 records (2.9s)
+[13:54:53]   pre cgcmf_cleanft_ub s1 p2_vcombo_noise_misalign: 158438 records (2.1s)
+[13:54:56]   pre cgcmf_cleanft_ub s2 p2_vcombo_noise_misalign: 196200 records (2.9s)
+[13:55:46]   pre cgcmf_dat_ub s0 p2_vcombo_noise_misalign: 74587 records (1.0s)
+[13:55:46]   pre cgcmf_dat_ub s1 p2_vcombo_noise_misalign: 70494 records (0.9s)
+[13:55:47]   pre cgcmf_dat_ub s2 p2_vcombo_noise_misalign: 33209 records (0.5s)
+[13:56:06]   pre cgcmf_fmaug_ub s0 p2_vcombo_noise_misalign: 38857 records (0.5s)
+[13:56:06]   pre cgcmf_fmaug_ub s1 p2_vcombo_noise_misalign: 31958 records (0.4s)
+[13:56:07]   pre cgcmf_fmaug_ub s2 p2_vcombo_noise_misalign: 26874 records (0.4s)
+[13:56:18]   pre midfusion_dat_v2 s0 p2_vcombo_noise_misalign: 33866 records (0.5s)
+[13:56:19]   pre midfusion_dat_v2 s1 p2_vcombo_noise_misalign: 37777 records (0.6s)
+[13:56:20]   pre midfusion_dat_v2 s2 p2_vcombo_noise_misalign: 54571 records (0.8s)
+[13:56:37]   pre midfusion_v2 s0 p2_vcombo_noise_misalign: 168966 records (2.2s)
+[13:56:40]   pre midfusion_v2 s1 p2_vcombo_noise_misalign: 196200 records (3.3s)
+[13:56:42]   pre midfusion_v2 s2 p2_vcombo_noise_misalign: 156095 records (2.4s)
+[13:57:30] M3FD_P26  DAT_vs_FMAug                 p2_vcombo_noise_misalign       d   -7.634 [  -8.324,  -5.570] cross=0
+[13:57:30] M3FD_P26  MidFusion_vs_CleanFT         p2_vcombo_noise_misalign       d   +4.081 [  +2.406,  +5.636] cross=0
+[13:57:30] M3FD_P26  MidFusionDAT_vs_DAT          p2_vcombo_noise_misalign       d   +2.442 [  -3.067,  +6.255] cross=1
+[13:57:30] M3FD_P26  DAT_vs_CleanFT               p2_vcombo_noise_misalign       d  +20.816 [ +16.840, +28.994] cross=0
+[13:57:30] M3FD_P26  FMAug_vs_CleanFT             p2_vcombo_noise_misalign       d  +28.450 [ +25.164, +35.142] cross=0
+[13:57:30] M3FD_P26  MidFusionDAT_vs_CleanFT      p2_vcombo_noise_misalign       d  +23.258 [ +20.549, +26.656] cross=0
+[13:57:30]   partial: 43 rows -> /root/autodl-tmp/ci_reweight_20261020/paired_diff_ci.csv
+[13:57:30]   pre cgcmf_cleanft_ub s0 p2_vcombo_blur_quant: 22537 records (0.4s)
+[13:57:31]   pre cgcmf_cleanft_ub s1 p2_vcombo_blur_quant: 22088 records (0.5s)
+[13:57:31]   pre cgcmf_cleanft_ub s2 p2_vcombo_blur_quant: 23846 records (0.4s)
+[13:57:40]   pre cgcmf_dat_ub s0 p2_vcombo_blur_quant: 23988 records (0.4s)
+[13:57:41]   pre cgcmf_dat_ub s1 p2_vcombo_blur_quant: 29445 records (0.4s)
+[13:57:41]   pre cgcmf_dat_ub s2 p2_vcombo_blur_quant: 31677 records (0.5s)
+[13:57:51]   pre cgcmf_fmaug_ub s0 p2_vcombo_blur_quant: 22282 records (0.4s)
+[13:57:51]   pre cgcmf_fmaug_ub s1 p2_vcombo_blur_quant: 17448 records (0.3s)
+[13:57:52]   pre cgcmf_fmaug_ub s2 p2_vcombo_blur_quant: 17007 records (0.3s)
+[13:58:00]   pre midfusion_dat_v2 s0 p2_vcombo_blur_quant: 48949 records (0.7s)
+[13:58:01]   pre midfusion_dat_v2 s1 p2_vcombo_blur_quant: 54089 records (0.8s)
+[13:58:01]   pre midfusion_dat_v2 s2 p2_vcombo_blur_quant: 29713 records (0.4s)
+[13:58:16]   pre midfusion_v2 s0 p2_vcombo_blur_quant: 39249 records (0.6s)
+[13:58:17]   pre midfusion_v2 s1 p2_vcombo_blur_quant: 50992 records (0.7s)
+[13:58:17]   pre midfusion_v2 s2 p2_vcombo_blur_quant: 17943 records (0.3s)
+[13:58:31] M3FD_P26  DAT_vs_FMAug                 p2_vcombo_blur_quant           d   +2.075 [  +1.531,  +4.816] cross=0
+[13:58:31] M3FD_P26  MidFusion_vs_CleanFT         p2_vcombo_blur_quant           d  +10.694 [  +8.137, +21.563] cross=0
+[13:58:31] M3FD_P26  MidFusionDAT_vs_DAT          p2_vcombo_blur_quant           d   +4.871 [  +3.433,  +7.723] cross=0
+[13:58:31] M3FD_P26  DAT_vs_CleanFT               p2_vcombo_blur_quant           d  +18.295 [ +15.598, +27.377] cross=0
+[13:58:31] M3FD_P26  FMAug_vs_CleanFT             p2_vcombo_blur_quant           d  +16.219 [ +13.992, +22.561] cross=0
+[13:58:31] M3FD_P26  MidFusionDAT_vs_CleanFT      p2_vcombo_blur_quant           d  +23.165 [ +21.890, +35.100] cross=0
+[13:58:31]   partial: 49 rows -> /root/autodl-tmp/ci_reweight_20261020/paired_diff_ci.csv
+[13:58:32] === M3FD_RS13 (M3FD): 654 frames, 3 clusters
+[13:58:32]   pre cgcmf_clean s0 combined: 28932 records (0.6s)
+[13:58:33]   pre cgcmf_clean s1 combined: 27341 records (0.6s)
+[13:58:33]   pre cgcmf_clean s2 combined: 14157 records (0.3s)
+[13:58:45]   pre cgcmf_dat s0 combined: 45044 records (1.0s)
+[13:58:47]   pre cgcmf_dat s1 combined: 80305 records (1.4s)
+[13:58:48]   pre cgcmf_dat s2 combined: 88006 records (1.4s)
+[13:59:12]   pre midfusion s0 combined: 35188 records (0.6s)
+[13:59:12]   pre midfusion s1 combined: 36587 records (0.6s)
+[13:59:13]   pre midfusion s2 combined: 51762 records (0.8s)
+[13:59:28]   pre midfusion_dat s0 combined: 60562 records (1.0s)
+[13:59:29]   pre midfusion_dat s1 combined: 71008 records (1.1s)
+[13:59:30]   pre midfusion_dat s2 combined: 40365 records (0.7s)
+[13:59:49] M3FD_RS13 MidFusion_vs_CGCMFclean      combined                       d  +10.744 [  +9.739, +12.865] cross=0
+[13:59:49] M3FD_RS13 MidFusionDAT_vs_CGCMFDAT     combined                       d   +5.094 [  +0.683,  +8.028] cross=0
+[13:59:49]   partial: 51 rows -> /root/autodl-tmp/ci_reweight_20261020/paired_diff_ci.csv
+[13:59:50]   pre cgcmf_clean s0 misalign_20: 47168 records (1.1s)
+[13:59:51]   pre cgcmf_clean s1 misalign_20: 45348 records (0.6s)
+[13:59:51]   pre cgcmf_clean s2 misalign_20: 43959 records (0.6s)
+[14:00:06]   pre cgcmf_dat s0 misalign_20: 45807 records (0.7s)
+[14:00:07]   pre cgcmf_dat s1 misalign_20: 72473 records (0.9s)
+[14:00:08]   pre cgcmf_dat s2 misalign_20: 77167 records (1.0s)
+[14:00:28]   pre midfusion s0 misalign_20: 32640 records (0.5s)
+[14:00:28]   pre midfusion s1 misalign_20: 38892 records (0.5s)
+[14:00:29]   pre midfusion s2 misalign_20: 36701 records (0.5s)
+[14:00:43]   pre midfusion_dat s0 misalign_20: 59343 records (1.0s)
+[14:00:45]   pre midfusion_dat s1 misalign_20: 71480 records (1.3s)
+[14:00:46]   pre midfusion_dat s2 misalign_20: 39656 records (1.0s)
+[14:01:04] M3FD_RS13 MidFusion_vs_CGCMFclean      misalign_20                    d   +3.502 [  +3.255,  +8.946] cross=0
+[14:01:04] M3FD_RS13 MidFusionDAT_vs_CGCMFDAT     misalign_20                    d   +2.849 [  +0.119,  +5.312] cross=0
+[14:01:04]   partial: 53 rows -> /root/autodl-tmp/ci_reweight_20261020/paired_diff_ci.csv
+[14:01:05]   pre cgcmf_clean s0 missing_0p: 17529 records (0.5s)
+[14:01:05]   pre cgcmf_clean s1 missing_0p: 6009 records (0.2s)
+[14:01:05]   pre cgcmf_clean s2 missing_0p: 5993 records (0.2s)
+[14:01:13]   pre cgcmf_dat s0 missing_0p: 121626 records (1.5s)
+[14:01:15]   pre cgcmf_dat s1 missing_0p: 165295 records (2.2s)
+[14:01:17]   pre cgcmf_dat s2 missing_0p: 163206 records (2.6s)
+[14:02:22]   pre midfusion s0 missing_0p: 13567 records (0.3s)
+[14:02:22]   pre midfusion s1 missing_0p: 16374 records (0.2s)
+[14:02:23]   pre midfusion s2 missing_0p: 25213 records (0.5s)
+[14:02:31]   pre midfusion_dat s0 missing_0p: 109984 records (1.4s)
+[14:02:33]   pre midfusion_dat s1 missing_0p: 116693 records (1.5s)
+[14:02:34]   pre midfusion_dat s2 missing_0p: 91476 records (1.1s)
+[14:03:06] M3FD_RS13 MidFusion_vs_CGCMFclean      missing_0p                     d   +8.711 [  +7.177, +13.647] cross=0
+[14:03:06] M3FD_RS13 MidFusionDAT_vs_CGCMFDAT     missing_0p                     d   +4.005 [  -0.019,  +6.079] cross=1
+[14:03:06]   partial: 55 rows -> /root/autodl-tmp/ci_reweight_20261020/paired_diff_ci.csv
+[14:03:07]   pre cgcmf_clean s0 missing_50p: 81843 records (1.5s)
+[14:03:08]   pre cgcmf_clean s1 missing_50p: 49517 records (0.8s)
+[14:03:09]   pre cgcmf_clean s2 missing_50p: 34073 records (0.5s)
+[14:03:30]   pre cgcmf_dat s0 missing_50p: 95491 records (1.9s)
+[14:03:33]   pre cgcmf_dat s1 missing_50p: 160056 records (2.8s)
+[14:03:36]   pre cgcmf_dat s2 missing_50p: 159608 records (2.8s)
+[14:04:17]   pre midfusion s0 missing_50p: 33406 records (0.6s)
+[14:04:18]   pre midfusion s1 missing_50p: 44167 records (0.6s)
+[14:04:18]   pre midfusion s2 missing_50p: 51704 records (0.7s)
+[14:04:32]   pre midfusion_dat s0 missing_50p: 87289 records (1.2s)
+[14:04:34]   pre midfusion_dat s1 missing_50p: 116286 records (1.8s)
+[14:04:35]   pre midfusion_dat s2 missing_50p: 64909 records (1.1s)
+[14:05:02] M3FD_RS13 MidFusion_vs_CGCMFclean      missing_50p                    d   +8.471 [  +6.323, +12.395] cross=0
+[14:05:02] M3FD_RS13 MidFusionDAT_vs_CGCMFDAT     missing_50p                    d   +4.272 [  -0.115,  +6.704] cross=1
+[14:05:02]   partial: 57 rows -> /root/autodl-tmp/ci_reweight_20261020/paired_diff_ci.csv
+[14:05:03]   pre cgcmf_clean s0 missing_75p: 77264 records (1.0s)
+[14:05:04]   pre cgcmf_clean s1 missing_75p: 55264 records (0.8s)
+[14:05:04]   pre cgcmf_clean s2 missing_75p: 48445 records (0.7s)
+[14:05:24]   pre cgcmf_dat s0 missing_75p: 64695 records (1.0s)
+[14:05:26]   pre cgcmf_dat s1 missing_75p: 125105 records (2.2s)
+[14:05:29]   pre cgcmf_dat s2 missing_75p: 129545 records (2.1s)
+[14:06:00]   pre midfusion s0 missing_75p: 36691 records (0.6s)
+[14:06:01]   pre midfusion s1 missing_75p: 45221 records (0.6s)
+[14:06:02]   pre midfusion s2 missing_75p: 41107 records (0.6s)
+[14:06:16]   pre midfusion_dat s0 missing_75p: 70125 records (0.9s)
+[14:06:17]   pre midfusion_dat s1 missing_75p: 91633 records (1.2s)
+[14:06:18]   pre midfusion_dat s2 missing_75p: 49218 records (0.6s)
+[14:06:38] M3FD_RS13 MidFusion_vs_CGCMFclean      missing_75p                    d   +5.777 [  +3.467,  +6.865] cross=0
+[14:06:38] M3FD_RS13 MidFusionDAT_vs_CGCMFDAT     missing_75p                    d   +2.805 [  -3.207,  +5.222] cross=1
+[14:06:38]   partial: 59 rows -> /root/autodl-tmp/ci_reweight_20261020/paired_diff_ci.csv
+[14:06:39]   pre cgcmf_clean s0 noise_s30: 28971 records (0.5s)
+[14:06:39]   pre cgcmf_clean s1 noise_s30: 26099 records (0.4s)
+[14:06:39]   pre cgcmf_clean s2 noise_s30: 13961 records (0.3s)
+[14:06:49]   pre cgcmf_dat s0 noise_s30: 43448 records (0.6s)
+[14:06:50]   pre cgcmf_dat s1 noise_s30: 77142 records (1.1s)
+[14:06:51]   pre cgcmf_dat s2 noise_s30: 87054 records (1.2s)
+[14:07:13]   pre midfusion s0 noise_s30: 35436 records (0.5s)
+[14:07:13]   pre midfusion s1 noise_s30: 34962 records (0.5s)
+[14:07:14]   pre midfusion s2 noise_s30: 51638 records (0.7s)
+[14:07:28]   pre midfusion_dat s0 noise_s30: 59046 records (0.8s)
+[14:07:29]   pre midfusion_dat s1 noise_s30: 70806 records (1.0s)
+[14:07:30]   pre midfusion_dat s2 noise_s30: 40783 records (0.6s)
+[14:07:47] M3FD_RS13 MidFusion_vs_CGCMFclean      noise_s30                      d   +9.160 [  +8.429, +11.269] cross=0
+[14:07:47] M3FD_RS13 MidFusionDAT_vs_CGCMFDAT     noise_s30                      d   +2.959 [  -4.480,  +6.648] cross=1
+[14:07:47]   partial: 61 rows -> /root/autodl-tmp/ci_reweight_20261020/paired_diff_ci.csv
+[14:07:47]   pre cgcmf_clean s0 noise_s50: 30728 records (0.5s)
+[14:07:48]   pre cgcmf_clean s1 noise_s50: 20003 records (0.3s)
+[14:07:48]   pre cgcmf_clean s2 noise_s50: 21302 records (0.4s)
+[14:07:58]   pre cgcmf_dat s0 noise_s50: 43763 records (0.6s)
+[14:07:59]   pre cgcmf_dat s1 noise_s50: 100059 records (1.4s)
+[14:08:01]   pre cgcmf_dat s2 noise_s50: 104423 records (1.5s)
+[14:08:25]   pre midfusion s0 noise_s50: 67187 records (0.9s)
+[14:08:26]   pre midfusion s1 noise_s50: 60779 records (0.8s)
+[14:08:27]   pre midfusion s2 noise_s50: 70631 records (0.9s)
+[14:08:47]   pre midfusion_dat s0 noise_s50: 65067 records (0.9s)
+[14:08:48]   pre midfusion_dat s1 noise_s50: 79876 records (1.0s)
+[14:08:48]   pre midfusion_dat s2 noise_s50: 43018 records (0.6s)
+[14:09:07] M3FD_RS13 MidFusion_vs_CGCMFclean      noise_s50                      d   +8.125 [  +7.264, +12.775] cross=0
+[14:09:07] M3FD_RS13 MidFusionDAT_vs_CGCMFDAT     noise_s50                      d   +2.349 [  -1.908,  +6.282] cross=1
+[14:09:07]   partial: 63 rows -> /root/autodl-tmp/ci_reweight_20261020/paired_diff_ci.csv
+[14:09:07] wrote /root/autodl-tmp/ci_reweight_20261020/paired_diff_ci.csv (63 rows)
